@@ -1,0 +1,14 @@
+			<external version="1.0" >
+				
+				<channel>
+					<link href="http://sam.cluesome.ltd/zp-core/setup/setup_pluginOptions.php?plugin=site_upgrade" />
+					<language>en-US</language>
+											<item>
+							<title><![CDATA[externalFeed suspended]]></title>
+							<link>http://sam.cluesome.ltd/</link>
+							<description><![CDATA[The external feed is currently not available.]]></description>
+														<pubDate>Thu, 23 Nov 2017 07:44:59 +0000</pubDate>
+						</item>
+										</channel>
+			</external>
+			

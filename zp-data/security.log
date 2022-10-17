@@ -1,0 +1,25 @@
+date	requestor’s IP	type	user ID	user name	outcome	authority	additional information
+2017-11-23 07:44:50	10.18.76.5	Install	May		Success	zp_admin	version 1.4.14[f5b47da52f]
+		Set Security log permissions			Failed		File permissions of Security log are 0640
+2017-11-23 07:45:01	10.18.76.5	Admin access			Failed		/zp-core/cron_runner.php
+2017-11-23 07:47:12	10.18.76.5	Admin login	May		Success	zp_admin
+2017-11-23 11:44:47	10.18.76.5	Admin login	May		Failed	
+2017-11-23 11:44:57	10.18.76.5	Admin login	May		Success	zp_admin
+2017-11-23 13:15:41	82.46.109.144	Admin login	admin	Site Developer	Success	zp_admin
+2017-11-23 13:51:22	82.46.109.144	Request delete user	admin	Site Developer	Success	zp_admin	May
+2017-11-23 13:51:27	82.46.109.144	Request update user	admin	Site Developer	Success	zp_admin	admin
+2017-11-23 13:51:27	82.46.109.144	Request update user	admin	Site Developer	Success	zp_admin	sam
+2017-11-23 13:53:19	82.46.109.144	Request update user	admin	Site Developer	Success	zp_admin	admin
+2017-11-23 13:53:19	82.46.109.144	Request update user	admin	Site Developer	Success	zp_admin	sam
+2017-11-29 22:16:51	82.29.52.85	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2017-12-04 19:48:26	82.46.109.144	Admin login	admin	Site Developer	Success	zp_admin
+2017-12-04 19:57:56	82.46.109.144	Admin login	admin	Site Developer	Success	zp_admin
+2017-12-04 19:59:32	82.46.109.144	Admin login	admin	Site Developer	Success	zp_admin
+2017-12-04 20:33:19	82.46.109.144	Admin login	admin	Site Developer	Success	zp_admin
+2017-12-04 22:43:25	82.46.109.144	Admin login	sam	Samantha Jane Murray	Success	zp_admin
+2017-12-09 03:20:55	82.29.52.85	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2017-12-16 05:40:51	82.29.52.85	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2017-12-25 20:33:52	82.29.52.85	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2018-01-06 03:50:42	82.29.52.85	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2018-01-15 22:58:07	82.46.109.144	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
+2018-01-26 20:57:21	217.160.152.4	cron_runner			Success	zp_admin	executing /kunden/homepages/28/d652289387/htdocs/sam/zp-core/utilities/backup_restore.php
